@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import Command
 from aiogram.types import Message, ChatMemberUpdated
 
-TOKEN = "ТВОЙ_ТОКЕН_ТУТ"
+TOKEN = "8593766854:AAFIrN_UjFw44N_1Ns8Nic6Q7CB6HBC2JCU"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
